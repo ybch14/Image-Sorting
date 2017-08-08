@@ -15,5 +15,5 @@ Outdoor scenes sorting needs to put the rest images in order. Outdoor images inc
 
 ### Dependencies
 
-- [OpenCV 2.4.x](www.opencv.org)
+- [OpenCV 2.4.x](https://www.opencv.org)
 - Visual Studio 2012 (Since there are only source codes, you can try it with any compiler)
